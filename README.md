@@ -28,7 +28,7 @@ I care about UX/UI coherence (Figma background), reusable components, CI/CD and 
 **Featured Projects**
 
 - ⚡ [Wattline — Energy Monitoring Dashboard](https://github.com/Esth-dev/wattline-dashboard) — IoT dashboard: real-time power, capacity alarms, edge-gateway status · Angular 20, TypeScript strict, Signals + RxJS, hand-made SVG charts, CI/CD → [live demo](https://esth-dev.github.io/wattline-dashboard/)
-- 🛒 [La Coop des Dômes — Website Redesign](https://www.figma.com/make/jl5k4wBtgNR0KtDeWodQi3/Website-Redesign-for-La-Coop--Copy-) — non-profit association website: Figma design system → front-end integration (HTML5, CSS3, JavaScript), remote collaboration with the association · [interactive prototype](https://www.figma.com/make/jl5k4wBtgNR0KtDeWodQi3/Website-Redesign-for-La-Coop--Copy-)
+- 🛒 [La Coop des Dômes — Website Redesign](https://www.figma.com/make/jl5k4wBtgNR0KtDeWodQi3/Website-Redesign-for-La-Coop--Copy-?fullscreen=1) — non-profit association website: Figma design system → front-end integration (HTML5, CSS3, JavaScript), remote collaboration with the association · [interactive prototype](https://www.figma.com/make/jl5k4wBtgNR0KtDeWodQi3/Website-Redesign-for-La-Coop--Copy-?fullscreen=1)
 - 🍫 [Cacao Cascade — Chocolaterie & Online Shop](https://github.com/Esth-dev/meu-site-chocolate) — highly interactive site with immersive animations (HTML, CSS, JavaScript)
 
 **Languages:** 🇧🇷 Portuguese (native) · 🇫 French (fluent) · 🇧 English (advanced, B2+)
